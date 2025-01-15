@@ -33,7 +33,7 @@
 </p>
 <ul>
   <li>🔗 <a href="https://tanvir-foundation.vercel.app">Live Demo</a></li>
-  <li>📂 <a href="https://github.com/yourusername/project2-repo">Repository</a></li>
+  <li>📂 <a href="https://github.com/Dev-Tanvir-Ahamed/Tanvir-Foundation">Repository</a></li>
 </ul>
 
 ---
