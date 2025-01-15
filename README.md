@@ -32,7 +32,7 @@
   A responsive donation website built with React.js, Redux Toolkit, and Express.js for backend.
 </p>
 <ul>
-  <li>🔗 <a href="[https://your-live-demo-link.com](https://tanvir-foundation.vercel.app/)">Live Demo</a></li>
+  <li>🔗 <a href="https://tanvir-foundation.vercel.app">Live Demo</a></li>
   <li>📂 <a href="https://github.com/yourusername/project2-repo">Repository</a></li>
 </ul>
 
