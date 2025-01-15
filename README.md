@@ -24,21 +24,7 @@
 
 ### 🌐 **Projects**
 
-#### 1. **Digital Product Platform**
-<p>
-  <img src="https://via.placeholder.com/500x300?text=Project+Screenshot+1" alt="Digital Product Platform" />
-</p>
-<p>
-  A platform to showcase and sell digital products, built with Next.js, Node.js, TailwindCSS, and TypeScript.
-</p>
-<ul>
-  <li>🔗 <a href="https://your-live-demo-link.com">Live Demo</a></li>
-  <li>📂 <a href="https://github.com/yourusername/project1-repo">Repository</a></li>
-</ul>
-
----
-
-#### 2. **Donation Website**
+#### 1. **Donation Website**
 <p>
   <img src="https://via.placeholder.com/500x300?text=Project+Screenshot+2" alt="Donation Website" />
 </p>
@@ -46,7 +32,7 @@
   A responsive donation website built with React.js, Redux Toolkit, and Express.js for backend.
 </p>
 <ul>
-  <li>🔗 <a href="https://your-live-demo-link.com">Live Demo</a></li>
+  <li>🔗 <a href="[https://your-live-demo-link.com](https://tanvir-foundation.vercel.app/)">Live Demo</a></li>
   <li>📂 <a href="https://github.com/yourusername/project2-repo">Repository</a></li>
 </ul>
 
