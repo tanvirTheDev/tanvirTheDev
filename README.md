@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm [Tanvir Ahamed]</h1>
-<h3 align="center">A Full Stack Web Developer from Bangladesh</h3>
+<h3 align="center">A Fontend Web Developer from Bangladesh</h3>
 
 <!-- Introduction -->
 <p align="center">
