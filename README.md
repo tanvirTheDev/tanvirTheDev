@@ -4,7 +4,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  Passionate Full Stack Developer with expertise in React.js, Next.js, Node.js, Express, and MongoDB. I love creating user-friendly and dynamic web applications.
+  Passionate Fontend Developer with expertise in React.js, Next.js, Node.js, Express, and MongoDB. I love creating user-friendly and dynamic web applications.
 </p>
 
 ---
