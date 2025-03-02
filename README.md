@@ -18,3 +18,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Tanvir-Ahamed/Dev-Tanvir-Ahamed/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dev-Tanvir-Ahamed/Dev-Tanvir-Ahamed/output/github-snake.svg" />
 </picture>
+
+<style>
+  [data-test-selector="contributions-calendar"] {
+    display: none !important;
+  }
+</style>
