@@ -2,9 +2,9 @@
 
 # Hello World!, I'm Tanvir Ahamed, a Web Developer 👋🏼:
 
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>
+🛜 currently working on my own [webpage]()<br>
 🎓 studying Electrical and Electronics Engineering <br>
-👨🏼‍💻 working as a web developer since [Your Starting Year] <br>
+👨🏼‍💻 working as a web developer since 2021 <br>
 ✍🏼 writing blogs on [Medium] (https://medium.com/@tanvir-ahamed) about problem-solving patterns  <br>
 📚 currently on a 100 days problem-solving challenge <br>
 🎬 planning to start a YouTube channel soon
