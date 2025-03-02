@@ -19,8 +19,31 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dev-Tanvir-Ahamed/Dev-Tanvir-Ahamed/output/github-snake.svg" />
 </picture>
 
-<style>
-  [data-test-selector="contributions-calendar"] {
-    display: none !important;
-  }
-</style>
+## 🚀 My Top Project
+
+### [CreativeGhor - E-commerce Platform](https://github.com/your-username/EliteGadgets)
+🛍️ A full-stack e-commerce platform for digital gadgets.
+
+![EliteGadgets](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=EliteGadgets&theme=radical)
+
+### 🌟 EliteGadgets UI Preview  
+
+![EliteGadgets UI](https://your-image-link.com/elitegadgets.png)  
+
+
+### 🌟 Features  
+✔️ Seller & Customer and admin Dashboard  
+✔️ Payment Integration  
+✔️ Authentication (JWT + Firebase)  
+
+### 🛠 Tech Stack  
+- **Frontend:** Next.js, Tailwind CSS, Redux Toolkit  
+- **Backend:** Node.js, Express, mongoose, MongoDB  
+- **Authentication:** Firebase, JWT  
+
+### 🌍 Live Demo  
+🔗 [[EliteGadgets Live](https://elitegadgets.vercel.app](https://creativeghor.onrender.com))
+
+### ⭐ Support & Contributions  
+If you find this project useful, please give it a **⭐ star** and feel free to **contribute**!  
+
