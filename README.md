@@ -5,7 +5,7 @@
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>
 🎓 studying Electrical and Electronics Engineering <br>
 👨🏼‍💻 working as a web developer since [Your Starting Year] <br>
-✍🏼 writing blogs on Medium about problem-solving patterns <br>
+✍🏼 writing blogs on Medium about problem-solving patterns [https://medium.com/@tanvir-ahamed] <br>
 📚 currently on a 100 days problem-solving challenge <br>
 🎬 planning to start a YouTube channel soon
 
