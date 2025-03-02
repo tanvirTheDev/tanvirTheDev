@@ -21,10 +21,10 @@
 
 ## 🚀 My Top Project
 
-### [CreativeGhor - E-commerce Platform](https://github.com/your-username/EliteGadgets)
+### [CreativeGhor - E-commerce Platform](https://github.com/Dev-Tanvir-Ahamed/creativeGhor)
 🛍️ A full-stack e-commerce platform for digital gadgets.
 
-![EliteGadgets](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=EliteGadgets&theme=radical)
+![EliteGadgets](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Tanvir-Ahamed&repo=EliteGadgets&theme=radical)
 
 ### 🌟 EliteGadgets UI Preview  
 
