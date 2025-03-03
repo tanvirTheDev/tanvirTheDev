@@ -31,12 +31,19 @@ An AI-powered platform designed to assist content creators in generating, optimi
 🌟 Features:
 
 ✔️ AI-Generated Video Scripts using Claude 3.7
+
 ✔️ Content Idea Generation & Trend Analysis
+
 ✔️ Automated Thumbnail & Title Suggestions
+
 ✔️ SEO Optimization for Better Reach
+
 ✔️ Content Scheduling & Management using Schematic
+
 ✔️ Real-time Collaboration & Feedback System
+
 ✔️ Secure Authentication powered by Clerk
+
 ✔️ Fast & Scalable Deployment on Vercel
 
 🛠 Tech Stack:
