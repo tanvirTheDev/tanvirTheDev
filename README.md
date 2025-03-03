@@ -6,7 +6,7 @@
 🎓 studying Electrical and Electronics Engineering <br>
 👨🏼‍💻 working as a web developer since 2021 <br>
 ✍🏼 writing blogs on [Medium] (https://medium.com/@tanvir-ahamed) about problem-solving patterns  <br>
-📚 currently on a 100 days problem-solving challenge <br>
+📚 currently on a 100-day problem-solving challenge <br>
 🎬 planning to start a YouTube channel soon
 
 # 💻 Tech Stack:
@@ -24,7 +24,7 @@
 🤖 AI Agent
 An AI-powered assistant designed to automate tasks, provide intelligent responses, and enhance user productivity through real-time AI interactions.
 ### 🌍 Live Demo  
-🔗 [AI Agent Live]((https://ai-agent-alpha-six.vercel.app))
+🔗 [AI Agent Live](https://ai-agent-alpha-six.vercel.app)
 
 An AI-powered platform designed to assist content creators in generating, optimizing, and managing YouTube content efficiently.
 
@@ -61,7 +61,7 @@ Deployment: Vercel
 
 
 ### 🌟 Features  
-✔️ Seller & Customer and admin Dashboard  
+✔️ Seller & Customer and Admin Dashboard  
 ✔️ Payment Integration  
 ✔️ Authentication (JWT + Firebase)  
 
