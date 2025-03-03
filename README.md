@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Tanvir Ahamed, a Web Developer 👋🏼:
 
-🛜 currently working on my own [webpage]()<br>
+🛜 currently working on my own [webpage](https://tanvir-portfolio-sable.vercel.app)<br>
 🎓 studying Electrical and Electronics Engineering <br>
 👨🏼‍💻 working as a web developer since 2021 <br>
 ✍🏼 writing blogs on [Medium] (https://medium.com/@tanvir-ahamed) about problem-solving patterns  <br>
@@ -18,6 +18,35 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Tanvir-Ahamed/Dev-Tanvir-Ahamed/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Dev-Tanvir-Ahamed/Dev-Tanvir-Ahamed/output/github-snake.svg" />
 </picture>
+
+🚀 Currently Working On
+### [🤖 AI Agent - Youtube Content](https://github.com/Dev-Tanvir-Ahamed/ai-agent)
+🤖 AI Agent
+An AI-powered assistant designed to automate tasks, provide intelligent responses, and enhance user productivity through real-time AI interactions.
+### 🌍 Live Demo  
+🔗 [AI Agent Live]((https://ai-agent-alpha-six.vercel.app))
+
+An AI-powered platform designed to assist content creators in generating, optimizing, and managing YouTube content efficiently.
+
+🌟 Features:
+✔️ AI-Generated Video Scripts using Claude 3.7
+✔️ Content Idea Generation & Trend Analysis
+✔️ Automated Thumbnail & Title Suggestions
+✔️ SEO Optimization for Better Reach
+✔️ Content Scheduling & Management using Schematic
+✔️ Real-time Collaboration & Feedback System
+✔️ Secure Authentication powered by Clerk
+✔️ Fast & Scalable Deployment on Vercel
+
+🛠 Tech Stack:
+
+Frontend: Next.js, Tailwind CSS
+Backend & Database: Convex
+AI Integration: Claude 3.7
+Automation & Logic: Schematic
+Authentication & Security: Clerk
+Deployment: Vercel
+
 
 ## 🚀 My Top Project
 
