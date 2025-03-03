@@ -42,7 +42,7 @@
 - **Authentication:** Firebase, JWT  
 
 ### 🌍 Live Demo  
-🔗 [[CreativeGhor Live]([(https://creativeghor.onrender.com)])
+🔗 [creativeghor Live](https://creativeghor.onrender.com)
 
 ### ⭐ Support & Contributions  
 If you find this project useful, please give it a **⭐ star** and feel free to **contribute**!  
