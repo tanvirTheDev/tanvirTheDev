@@ -24,11 +24,11 @@
 ### [CreativeGhor - E-commerce Platform](https://github.com/Dev-Tanvir-Ahamed/creativeGhor)
 🛍️ A full-stack e-commerce platform for digital gadgets.
 
-![EliteGadgets](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Tanvir-Ahamed&repo=EliteGadgets&theme=radical)
+![CreativeGhor](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Tanvir-Ahamed&repo=EliteGadgets&theme=radical)
 
-### 🌟 EliteGadgets UI Preview  
+### 🌟 CreativeGhor UI Preview  
 
-![EliteGadgets UI](https://your-image-link.com/elitegadgets.png)  
+![CreativeGhor UI](/homepage.png)  
 
 
 ### 🌟 Features  
