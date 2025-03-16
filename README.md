@@ -1,5 +1,3 @@
-
-
 # Hello World!, I'm Tanvir Ahamed, a Web Developer 👋🏼:
 
 🛜 currently working on my own [webpage](https://tanvir-portfolio-sable.vercel.app)<br>
