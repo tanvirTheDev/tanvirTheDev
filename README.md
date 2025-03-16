@@ -58,6 +58,55 @@ Deployment: Vercel
 
 ## 🚀 My Top Project
 
+### 🤲 [Tanvir Foundation - Donation Platform](https://github.com/Dev-Tanvir-Ahamed/Tanvir-Foundation)  
+A comprehensive platform to facilitate post-disaster relief efforts by centralizing donation management.
+
+### 🌟 Tanvir Foundation UI Preview  
+
+![Tanvir Foundation UI](/donationHomepage.png) 
+
+**🌟 Features:**  
+✔️ Home Page with Banner, Donation Cards, Testimonials, and Gallery  
+✔️ Donation Detail Page with Category, Description, and Amount  
+✔️ User Dashboard with Donation Statistics  
+✔️ Create, Edit & Delete Donations  
+✔️ Responsive & Animated UI with Framer Motion 
+✔️ SSl Ecomarcez for donation.
+
+
+**🛠 Tech Stack:**  
+- **Frontend:** React, Redux, RTK Query, React Router DOM, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **State Management:** Redux Toolkit  
+- **Form Handling:** React Hook Form
+-  **Payment Method:** SSL Ecomarcez
+- **Deployment:** Vercel  
+
+🔗 **[Live Demo](https://tanvirfoundation.vercel.app)**  
+
+🚀 JAF Washing Limited - Industrial Washing & Dyeing Services
+A modern and efficient platform for managing industrial washing and dyeing services, ensuring seamless service management and customer interaction.
+### 🌟 JAF Washing Limited UI Preview  
+
+![JAF Washing Limited UI](/jafWashingHomepage.png) 
+
+🌐 Live Demo
+🔗 https://jaf-washing-plant-ltd.vercel.app/
+
+📌 Features
+🏠 User Features:
+✅ Home Page with Service Overview, Testimonials, and Contact Section
+✅ Detailed Service Pages with Categories, Descriptions, and Pricing
+✅ Responsive & Animated UI with Framer Motion
+
+
+🛠 Tech Stack
+Frontend:
+⚛️ Next js
+🎨 Tailwind CSS
+
+
+
 ### [CreativeGhor - E-commerce Platform](https://github.com/Dev-Tanvir-Ahamed/creativeGhor)
 🛍️ A full-stack e-commerce platform for digital gadgets.
 
@@ -81,31 +130,6 @@ Deployment: Vercel
 ### 🌍 Live Demo  
 🔗 [creativeghor Live](https://creativeghor.onrender.com)
 
-### 🤲 [Tanvir Foundation - Donation Platform](https://github.com/Dev-Tanvir-Ahamed/Tanvir-Foundation)  
-A comprehensive platform to facilitate post-disaster relief efforts by centralizing donation management.
-
-### 🌟 Tanvir Foundation UI Preview  
-
-![Tanvir Foundation UI](/donationHomepage.png) 
-
-**🌟 Features:**  
-✔️ Home Page with Banner, Donation Cards, Testimonials, and Gallery  
-✔️ Donation Detail Page with Category, Description, and Amount  
-✔️ User Dashboard with Donation Statistics  
-✔️ Create, Edit & Delete Donations  
-✔️ Responsive & Animated UI with Framer Motion 
-✔️ SSl Ecomarcez for donation.
-
-
-**🛠 Tech Stack:**  
-- **Frontend:** React, Redux, RTK Query, React Router DOM, Tailwind CSS  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **State Management:** Redux Toolkit  
-- **Form Handling:** React Hook Form
-- - **Payment Method:** SSL Ecomarcez
-- **Deployment:** Vercel  
-
-🔗 **[Live Demo](https://tanvirfoundation.vercel.app)**  
 
 ### ⭐ Support & Contributions  
 If you find this project useful, please give it a **⭐ star** and feel free to **contribute**!  
