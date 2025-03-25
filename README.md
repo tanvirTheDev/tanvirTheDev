@@ -53,7 +53,6 @@ Automation & Logic: Schematic
 Authentication & Security: Clerk
 Deployment: Vercel
 
-
 ## 🚀 My Top Project
 
 ### 🤲 [Tanvir Foundation - Donation Platform](https://github.com/Dev-Tanvir-Ahamed/Tanvir-Foundation)  
