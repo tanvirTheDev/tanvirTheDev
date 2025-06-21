@@ -8,7 +8,7 @@
 
 - 🎓 Studying Electrical and Electronics Engineering
 - 👨‍💻 Web Developer since **2021**
-- 💻 Completed CSE fundamentals through the **Phitron course** by Programming Hero
+- 💻 Running CSE fundamentals through the **Phitron course** by Programming Hero
 - ✍️ Writing regularly on [Medium](https://medium.com/@tanvir-ahamed) about what i learn everyday and new technology.
 - 🔥 On a **100-day problem-solving challenge**
 
