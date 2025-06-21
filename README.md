@@ -103,6 +103,7 @@ Deployment: Vercel
 🔗 **[Github Repo](https://github.com/tanvirTheDev/EcommerceHut)**
 
 🌟 Features:
+
 ✔️ Next.js 15 with TypeScript for fast, scalable frontend
 
 ✔️ Sanity CMS for live product, category & sale management
