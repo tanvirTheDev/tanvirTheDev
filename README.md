@@ -104,12 +104,19 @@ Deployment: Vercel
 
 🌟 Features:
 ✔️ Next.js 15 with TypeScript for fast, scalable frontend
+
 ✔️ Sanity CMS for live product, category & sale management
+
 ✔️ Atom state management for basket and orders
+
 ✔️ Stripe integration for secure payments
+
 ✔️ Responsive UI with Tailwind CSS & Shadcn UI
+
 ✔️ Category filtering, search, and live sale banners
+
 ✔️ Draft mode for instant preview of unpublished changes
+
 
 🛠 Tech Stack:
 
