@@ -6,13 +6,11 @@
 
 ## 🚀 About Me
 
-- 🌐 Currently working on my [personal portfolio](https://tanvir-portfolio-sable.vercel.app)
 - 🎓 Studying Electrical and Electronics Engineering
 - 👨‍💻 Web Developer since **2021**
 - 💻 Completed CSE fundamentals through the **Phitron course** by Programming Hero
-- ✍️ Writing regularly on [Medium](https://medium.com/@tanvir-ahamed) about problem-solving patterns
+- ✍️ Writing regularly on [Medium](https://medium.com/@tanvir-ahamed) about what i learn everyday and new technology.
 - 🔥 On a **100-day problem-solving challenge**
-- 🎬 Planning to launch a YouTube channel soon
 
 ---
 
@@ -96,6 +94,36 @@ Authentication & Security: Clerk
 Deployment: Vercel
 
 ## 🚀 My Top Project
+
+🌟 EcommerceHut UI Preview
+
+![EcommerceHut UI](/ecomereceHutHomepage.png)
+
+🔗 **[Live Demo](ecommerce-hut-rouge.vercel.app)**
+🔗 **[Github Repo](https://github.com/tanvirTheDev/EcommerceHut)**
+
+🌟 Features:
+✔️ Next.js 15 with TypeScript for fast, scalable frontend
+✔️ Sanity CMS for live product, category & sale management
+✔️ Atom state management for basket and orders
+✔️ Stripe integration for secure payments
+✔️ Responsive UI with Tailwind CSS & Shadcn UI
+✔️ Category filtering, search, and live sale banners
+✔️ Draft mode for instant preview of unpublished changes
+
+🛠 Tech Stack:
+
+Frontend: Next.js, React, TypeScript
+
+CMS: Sanity.io
+
+State Management: Atom
+
+Payments: Stripe
+
+Styling: Tailwind CSS, Shadcn UI
+
+Deployment: Vercel
 
 ### 🤲 [Tanvir Foundation - Donation Platform](https://github.com/Dev-Tanvir-Ahamed/Tanvir-Foundation)
 
