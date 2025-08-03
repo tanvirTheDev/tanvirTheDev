@@ -1,4 +1,4 @@
-<img src="/banner_github.png" alt="Tanvir Ahamed's portfolio banner" width="100%">
+<img src="/githubBanner.png" alt="Tanvir Ahamed's portfolio banner" width="100%">
 
 # Hi, I'm Tanvir Ahamed
 
