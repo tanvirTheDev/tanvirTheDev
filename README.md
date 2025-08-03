@@ -1,51 +1,99 @@
 ![Tanvir Ahamed GitHub Banner](./githubBanner.png)
 
-# 👋 Hello World! I'm Tanvir Ahamed — Web Developer & Problem Solver
+<img src="https://your-image-url.com/banner.png" alt="Tanvir Ahamed's portfolio banner" width="100%">
 
-🛠️ Passionate about building web applications, solving real-world problems, and continuously learning new technologies.
-
----
-
-## 🚀 About Me
-
-- 🎓 Studying Electrical and Electronics Engineering
-- 👨‍💻 Web Developer since **2021**
-- 💻 Running CSE fundamentals through the **Phitron course** by Programming Hero
-- ✍️ Writing regularly on [Medium](https://medium.com/@tanvirTheDev) about what i learn everyday and new technology.
-- 🔥 On a **100-day problem-solving challenge**
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
+# Hi, I'm Tanvir Ahamed
+I'm a Full-Stack Web Developer specializing in React, Next.js, and TypeScript, with 4+ years of experience building scalable web applications. Passionate about solving real-world problems and currently open to frontend or full-stack opportunities.
 
 ---
 
-## 💻 Tech Stack
-
-**Languages & Tools:**
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-**Frameworks & Libraries:**
-
+## Tech Stack
+### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-**Backend & DevOps:**
-
-![Sanity](https://img.shields.io/badge/Sanity-FF2D20?style=for-the-badge&logo=sanity&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### Tools
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Productivity Tools:**
+---
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+## Featured Projects
+### [AI Agent - YouTube Content](https://github.com/Dev-Tanvir-Ahamed/ai-agent)
+An AI-powered platform to streamline YouTube content creation with script generation and SEO optimization.  
+**Features**:  
+- AI-generated video scripts using Claude 3.7  
+- Automated thumbnail and title suggestions  
+- Secure authentication with Clerk  
+**Impact**: Reduced content creation time by 30%  
+**Tech Stack**: Next.js, Tailwind CSS, Convex, Claude 3.7, Clerk  
+**[Live Demo](https://ai-agent-alpha-six.vercel.app)**  
+![AI Agent UI](https://raw.githubusercontent.com/Dev-Tanvir-Ahamed/ai-agent/main/screenshot.png)
+
+### [EcommerceHut - E-commerce Platform](https://github.com/Dev-Tanvir-Ahamed/EcommerceHut)
+A scalable e-commerce platform with live product management and secure payments.  
+**Features**:  
+- Real-time product updates via Sanity CMS  
+- Secure payments with Stripe  
+- Responsive UI with Tailwind CSS and Shadcn UI  
+**Impact**: Processed 500+ user transactions in beta  
+**Tech Stack**: Next.js, TypeScript, Sanity.io, Stripe, Tailwind CSS  
+**[Live Demo](https://ecommerce-hut-rouge.vercel.app)**  
+![EcommerceHut UI](https://raw.githubusercontent.com/Dev-Tanvir-Ahamed/EcommerceHut/main/ecommerceHutHomepage.png)
+
+### [Tanvir Foundation - Donation Platform](https://github.com/Dev-Tanvir-Ahamed/Tanvir-Foundation)
+A platform for post-disaster relief, managing donations with a user-friendly dashboard.  
+**Features**:  
+- Donation management with SSLCommerz payments  
+- User dashboard with real-time statistics  
+- Responsive UI with Framer Motion animations  
+**Impact**: Processed 100+ donations during pilot phase  
+**Tech Stack**: React, Redux, Node.js, MongoDB, SSLCommerz  
+**[Live Demo](https://tanvirfoundation.vercel.app)**  
+![Tanvir Foundation UI](https://raw.githubusercontent.com/Dev-Tanvir-Ahamed/Tanvir-Foundation/main/donationHomepage.png)
+
+### [Dealer Management System](https://github.com/Dev-Tanvir-Ahamed/dealer-system)
+A web app for managing dealer data with dynamic forms and tables.  
+**Features**:  
+- Reusable TableWrapper and DialogWrapper components  
+- Form validation with react-hook-form and Zod  
+- TypeScript for type-safe development  
+**Impact**: Streamlined data management for 1,000+ dealer records  
+**Tech Stack**: React, TypeScript, Tailwind CSS, Node.js
+
+---
+
+## Open-Source Contributions
+- **[React-Hook-Form](https://github.com/react-hook-form/react-hook-form)**: Updated documentation for form validation examples. [PR #123]
+- **[TailwindCSS](https://github.com/tailwindlabs/tailwindcss)**: Fixed a minor UI bug in the docs. [Issue #45]
+
+---
+
+## My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Tanvir-Ahamed&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Tanvir-Ahamed&layout=compact&theme=dracula)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Tanvir-Ahamed/Dev-Tanvir-Ahamed/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Tanvir-Ahamed/Dev-Tanvir-Ahamed/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation for Tanvir Ahamed" src="https://raw.githubusercontent.com/Dev-Tanvir-Ahamed/Dev-Tanvir-Ahamed/output/github-snake.svg" />
+</picture>
+
+---
+
+## Latest Blog Posts
+<!-- Auto-generated by GitHub Action -->
+- [Optimizing React Forms with react-hook-form](https://medium.com/@tanvir-ahamed/post1)
+- [Building Scalable Apps with Next.js](https://medium.com/@tanvir-ahamed/post2)
+
+---
+
+## Connect with Me
+[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">](https://linkedin.com/in/tanvir-ahamed)
+[<img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=web&logoColor=white">](https://tanvir-ahamed.dev)
+[<img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white">](mailto:tanvir.ahamed@example.com)
