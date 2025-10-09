@@ -119,5 +119,5 @@ A web app for managing dealer data with dynamic forms and tables, built with Ato
 
 ## Connect with Me
 [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">](https://linkedin.com/in/tanvirthedev)
-[<img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=web&logoColor=white">](https://tanvir-portfolio-sable.vercel.app)
+[<img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=web&logoColor=white">](https://www.tanvirthedev.com)
 [<img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white">](mailto:ahamedtanvir374@gmail.com)
