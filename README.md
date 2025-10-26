@@ -1,4 +1,5 @@
-<img src="[/githubBanner.png](https://videos.openai.com/vg-assets/assets%2Ftask_01k7chmjrnfxyr26pamtn3zhyy%2F1760284067_img_0.webp?se=2025-10-12T16%3A47%3A50Z&sp=r&sv=2024-08-04&sr=b&skoid=3d249c53-07fa-4ba4-9b65-0bf8eb4ea46a&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-12T14%3A36%3A39Z&ske=2025-10-12T18%3A41%3A39Z&sks=b&skv=2024-08-04&sig=G9S6lmPNH1YFK3HU9THcP3N9MBEKmNDUxF/gAiM2dM0%3D&az=oaivgprodscus)" alt="Tanvir Ahamed's portfolio banner" width="100%">
+![Tanvir Ahamed's portfolio banner]([githubBanner.png](https://www.tanvirthedev.com/github_banner.jpg))
+
 
 <!-- 
 SEO: Tanvir Ahamed, tanvirTheDev, Full Stack Developer, Next.js, React, Node.js, TypeScript, Bangladesh Developer, Portfolio, Web Developer
