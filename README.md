@@ -1,4 +1,5 @@
-![Tanvir Ahamed's portfolio banner]([githubBanner.png](https://www.tanvirthedev.com/github_banner.jpg))
+![Tanvir Ahamed's Portfolio Banner](https://www.tanvirthedev.com/github_banner.jpg)
+
 
 
 <!-- 
