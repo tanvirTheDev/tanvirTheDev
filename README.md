@@ -6,9 +6,9 @@ SEO: Tanvir Ahamed, tanvirTheDev, Full Stack Developer, Next.js, React, Node.js,
 
 # 👋 Hi, I'm Tanvir Ahamed — *tanvirTheDev*
 
-🚀 A passionate **Full-Stack Developer** from **Bangladesh**, building scalable and modern web applications using **Next.js, React, TypeScript, Node.js, and PostgreSQL**.  
+A passionate **Full-Stack Developer** from **Bangladesh**, building scalable and modern web applications using **Next.js, React, TypeScript, Node.js, and PostgreSQL**.  
 
-💡 I enjoy crafting high-performance applications and sharing knowledge through blogs and open-source contributions.
+I enjoy crafting high-performance applications and sharing knowledge through blogs and open-source contributions.
 
 🌐 Explore my work: [tanvirthedev.com](https://www.tanvirthedev.com)
 
