@@ -64,5 +64,3 @@ I enjoy crafting high-performance applications and sharing knowledge through blo
 <p align="center">
   <i>"Code. Learn. Share. Repeat."</i> — <b>Tanvir Ahamed</b>
 </p>
-
-
