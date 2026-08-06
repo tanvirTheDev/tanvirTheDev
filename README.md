@@ -1,4 +1,4 @@
-![Tanvir Ahamed's Portfolio Banner](https://www.tanvirthedev.com/github_banner.jpg)
+[![Tanvir Ahamed's Portfolio Banner](https://www.tanvirthedev.com/coverImage.png)](https://www.tanvirthedev.com)
 
 <!-- 
 SEO: Tanvir Ahamed, tanvirTheDev, Full Stack Developer, Next.js, React, Node.js, TypeScript, Bangladesh Developer, Portfolio, Web Developer
